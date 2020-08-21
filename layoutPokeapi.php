@@ -7,8 +7,8 @@
 
 	<title>Humble Pokeapi by Alexx</title>
 
-	<meta name="description" content="Source code generated using layoutit.com">
-	<meta name="author" content="LayoutIt!">
+	<meta name="description" content="Source code">
+	<meta name="author" content="Alejandro G. Vera">
 
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/style.css" rel="stylesheet">
